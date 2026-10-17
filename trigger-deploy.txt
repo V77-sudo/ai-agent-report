@@ -1,0 +1,3 @@
+Triggering GitHub Actions deploy: commit created to prompt workflow run.
+
+This file was added by Copilot to trigger the CI/CD workflow that deploys the site to GitHub Pages.
